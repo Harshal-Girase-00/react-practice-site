@@ -1,12 +1,9 @@
-# React + Vite
+=> This is a practice website where I experimented with Axios to perform both POST and GET requests from APIs. 
+   For this, I created two different mock APIs on MockAPI.io – one for users and one for admins.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+=> In this project, I also installed and used Tailwind CSS. From my personal experience, I realized something important:
+   beginners often make the mistake of skipping normal CSS and jumping directly into Tailwind or other frameworks.
+   But without a strong foundation in basic CSS, it becomes harder to fully enjoy and understand advanced tools.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=> Additionally, in this website I practiced using React Router (latest routing setup) and explored navigation using
+   the useNavigate() hook to redirect between pages.
